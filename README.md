@@ -5,4 +5,4 @@
 3. Pow Component, raises data by its same value.
 4. Date Component, convert data to a date format.
 
-This exercise is mentoring by Hugo.
+This exercise is mentoring by Hugo Virgen.
